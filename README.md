@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
 
-oo
+![ezgif com-animated-gif-maker (1) (2)](https://github.com/user-attachments/assets/862253af-25d9-47f6-9e5f-5a995d90d451)
 
 
 </div>
@@ -15,8 +15,7 @@ oo
 <br/>
 <div align="center">
 
-info info info ~in~fo info (or links)
-do links like this [text](link)
+ill do links later i need yto fisnih my crrd first
 
 </div>
 <br/>
@@ -55,6 +54,6 @@ ${\textsf{\color{#000000} "I will totally protect you. Yo, I am so buff, I got y
 <br/>
 <div align="center">
 
-made by seb / @jbberwnger on gh / pvurrity
+made by stupid seb / @jbberwnger on gh / pvurrity
 
 </div>
