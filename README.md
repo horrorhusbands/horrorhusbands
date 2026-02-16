@@ -32,7 +32,7 @@ ill do links later i need yto fisnih my crrd first
   <br/>
   <div align="center">
 
-${\textsf{\color{#000000} "I will totally protect you. Yo, I am so buff, I got you covered, girl." }}$
+${\textsf{\color{#500660} "I will totally protect you. Yo, I am so buff, I got you covered, girl." }}$
 
 
 
