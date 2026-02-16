@@ -1,13 +1,14 @@
 <div align="center">
 
-<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/76f1a4fe-7b46-4cbb-9a5e-f112865ba99f" />
+<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/5193a5dd-0095-4918-9c3d-12ec8989cc89" />
 
 </div>
 <br/>
 <br/>
 <div align="center">
 
-![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/bb791dd9-dc75-4339-860e-c3c301003008)
+oo
+
 
 </div>
 <br/>
@@ -22,7 +23,9 @@ do links like this [text](link)
 <br/>
 <div align="center">
 
-<img width="400" height="40" alt="image" src="https://github.com/user-attachments/assets/51d2b180-cd93-4b9d-8e87-21320aaf27c4" />
+<img  width="400" height="40" alt="image" src="https://github.com/user-attachments/assets/3f65a665-37d3-4eec-9ba9-0685fa753764" />
+
+
 
 
 <div/>
@@ -30,7 +33,7 @@ do links like this [text](link)
   <br/>
   <div align="center">
 
-${\textsf{\color{#9b2307} "I will totally protect you. Yo, I am so buff, I got you covered, girl." }}$
+${\textsf{\color{#000000} "I will totally protect you. Yo, I am so buff, I got you covered, girl." }}$
 
 
 
@@ -38,13 +41,15 @@ ${\textsf{\color{#9b2307} "I will totally protect you. Yo, I am so buff, I got y
   <br/>
 <div align="center">
 
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/e7c0af14-e194-440b-9ee8-ea76155ddfc3" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/feed827c-bac9-4720-b303-2397844eb1ac" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/5677f0f8-6adb-44b3-ba5c-fba8128f134e" />
+ <img  width="120" height="120" width="635" height="457" alt="image" src="https://github.com/user-attachments/assets/32d738b0-576c-4550-ae22-c165a3f7b8de" />
+ <img  width="120" height="120" alt="image" alt="image" src="https://github.com/user-attachments/assets/58d5dbf2-4bce-479c-b56c-ae572ac7af50" /><img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/fb10a715-daf5-4fa4-8399-c96141df9d44" />
+
 
 </div>
 <br/>
 <div align="center">
 
-<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/76f1a4fe-7b46-4cbb-9a5e-f112865ba99f" />
+<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/5193a5dd-0095-4918-9c3d-12ec8989cc89" />
 
 </div>
 <br/>
