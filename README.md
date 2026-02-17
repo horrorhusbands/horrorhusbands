@@ -15,7 +15,7 @@
 <br/>
 <div align="center">
 
-ill do links later i need yto fisnih my crrd first
+[rentry](https://rentry.co/horrorhusbandss)  ✗  [carrd](https://troubleinwoodsboro.carrd.co/)  ✗  [guns](https://guns.lol/quietmoment)  ✗  [ata](https://horrorhusbands.atabook.org/)
 
 </div>
 <br/>
