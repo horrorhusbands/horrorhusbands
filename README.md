@@ -12,9 +12,14 @@
 
 </div>
 <br/>
-<br/>
 <div align="center">
 
+🫀
+
+</div>
+<br/>
+<div align="center">
+  
 [ᴀᴛᴀ](https://horrorhusbands.atabook.org/) ⌖ [ʀᴇɴᴛʀʏ](https://rentry.co/horrorhusbandss) ⌖ [ɢᴜɴꜱ](https://guns.lol/quietmoment)
 
 </div>
